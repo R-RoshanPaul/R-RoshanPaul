@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://s5.ezgif.com/tmp/ezgif-5-7be20ad213.gif" width="40px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://s5.ezgif.com/tmp/ezgif-5-7be20ad213.gif" width="30px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
