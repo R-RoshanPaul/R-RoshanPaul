@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Roshan Paul</h1>
 <h3 align="center">A Teenaged Developer from India</h3>
 
-="l//komarev.com/ghpvc/?username=r-roshanpaul&label=Profile%20views&color=0e75b6&style=flat" alt="r-ros
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r-roshanpaul" alt="r-roshanpaul" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/kl_zilla" target="blank"><img src="https://img.shields.io/twitter/follow/kl_zilla?logo=twitter&style=for-the-badge" alt="kl_zilla" /></a> </p>
