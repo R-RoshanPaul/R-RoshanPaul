@@ -1,5 +1,5 @@
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://media3.giphy.com/media/veHIwhDRl780wT2XfC/giphy.gif?cid=6c09b952uwu7wtnf54o4fq3ucnaqtwid9hb6g8yht4kxtsbw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="40px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://media3.giphy.com/media/veHIwhDRl780wT2XfC/giphy.gif?cid=6c09b952uwu7wtnf54o4fq3ucnaqtwid9hb6g8yht4kxtsbw&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="70px"> </h1>
    
    
    <img src="https://pronoun.cyou/x/y?subject=He&object=Him&height=20"> 
