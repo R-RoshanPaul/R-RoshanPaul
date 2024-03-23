@@ -16,7 +16,7 @@
 
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://drive.google.com/file/d/1HlHD96GRHLiPTtwy1Xz7DxU150F42aQm/view" width="50px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="#" width="50px"> </h1>
   
    
    
