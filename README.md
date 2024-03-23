@@ -16,11 +16,11 @@
 
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://s5.ezgif.com/tmp/ezgif-5-7be20ad213.gif" width="30px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://media3.giphy.com/media/veHIwhDRl780wT2XfC/giphy.gif?cid=6c09b952hyr8lg0jo9cpniq2ee3wfj5cegegfg1ks4bhcu3w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="30px"> </h1>
    
    
    
-</div>
+</div
 
 <p align='center'>
    <a href="https://www.linkedin.com/in/hemant-j-85518a195/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
