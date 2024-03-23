@@ -1,4 +1,8 @@
-<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ051wfa_HCIZ51iKLLpGwAya7FW2kNSEkqm38merxgRGo-P8Kw3ZPGNfo&s=10"/>
+<p align="center" >
+
+<img  src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ051wfa_HCIZ51iKLLpGwAya7FW2kNSEkqm38merxgRGo-
+ P8Kw3ZPGNfo&s=10"/>  
+ </p>
 
 
 
