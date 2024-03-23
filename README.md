@@ -43,7 +43,7 @@
 
 <p align="center">
    <a href="https://twitter.com/kl_zilla"><img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/kl_zilla?style=for-the-badge&color=09f&labelColor=black&logo=twitter&label=@kl_zilla"></a>
-   <br> <!-- <a href="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> <img alt="hemant joshi github" src="https://badges.pufler.dev/visits/mayhemantt/mayhemantt"> </a> -->
+   
    <img alt="#"> </a>
  </p>
  
