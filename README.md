@@ -16,7 +16,7 @@
 
 
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://media3.giphy.com/media/veHIwhDRl780wT2XfC/giphy.gif?cid=6c09b952hyr8lg0jo9cpniq2ee3wfj5cegegfg1ks4bhcu3w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="30px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/R-RoshanPaul/R-RoshanPaul">Roshan Paul</a> <img src="https://media3.giphy.com/media/veHIwhDRl780wT2XfC/giphy.gif?cid=6c09b952hyr8lg0jo9cpniq2ee3wfj5cegegfg1ks4bhcu3w&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" width="50px"> </h1>
    
    
    
